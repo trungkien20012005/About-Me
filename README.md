@@ -4,9 +4,8 @@
 
 ## 📚 About Me
 - 🎓 Software Engineer Student @ FPT University  
-- 🌱 Currently learning: React, WPF, SQL Server  
-- 💬 Ask me about: Java, TypeScript, C#, Git  
-- 📫 Contact: trungkien20012005@gmail.com
+- 🌱 Currently learning: Java, Springboot, React, WPF, SQL Server  
+- 📫 Contact: nguyentotrungkien@gmail.com
 
 ---
 
@@ -20,12 +19,13 @@
 ![Trung Kien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trungkien20012005&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trungkien20012005&layout=compact&theme=tokyonight)
 
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=trungkien20012005&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=trungkien20012005&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
-## 🎯 Fun Facts
+## 🎯 Interests
 
-- 🧩 Love solving debugging mysteries
-- ⚽ Weekend football warrior
-- 🛠 Always learning something new!
+- 🏀 Playing basketball
+- 🏋️‍♂️ Staying active through fitness & sports
+- 📚 Reading books about personal growth and technology  
+- 🎧 Listening to music while coding  
