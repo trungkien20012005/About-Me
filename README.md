@@ -21,4 +21,3 @@
 🏀 Basketball | 💪 Fitness | 📚 Reading | 🎧 Music
 
 
-![Hoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoangWorthy&include_all_commits=true&show_icons=true&theme=tokyonight)
