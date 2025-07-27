@@ -21,7 +21,6 @@
 
 - 🗄️ Backend & DB:  
   ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 - 🔧 Tools:  
   ![Visual Studio](https://img.shields.io/badge/VS-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
